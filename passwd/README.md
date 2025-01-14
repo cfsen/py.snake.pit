@@ -1,0 +1,1 @@
+A small utility to help memorize new passwords. Gradually hides more of the password as you successfully enter it. Don't trust a strangers word on this, read the code yourself to verify that there's nothing suspicious going on. 
